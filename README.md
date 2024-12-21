@@ -65,8 +65,8 @@
     
     <div class="letters">
         <div class="letter">
-            <h2>for my baby: My Everything</h2>
-            <p>Maxi, you are the sunshine in my mornings, the calm in my nights, and the joy in every moment in between. 
+            <h2>for my dear mom: My Everything</h2>
+            <p>mama, you are the sunshine in my mornings, the calm in my nights, and the joy in every moment in between. 
 
 When I look at you, I see my future, my best friend, and my greatest mom ever. Thank you for being my rock, my inspiration, 
 
