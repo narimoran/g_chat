@@ -9,7 +9,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            background: linear-gradient(to bottom, #ffdde1, #ee9ca7);
+            background: linear-gradient(to bottom, #ffdde1, #fad9e8);
             color: #333;
         }
         header {
